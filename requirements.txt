@@ -2,3 +2,6 @@ ipykernel
 pandas
 pytest
 scikit-learn
+tqdm
+matplotlib
+tqdm_joblib
